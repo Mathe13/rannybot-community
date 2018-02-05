@@ -1,0 +1,36 @@
+info do usuario
+nome
+data de nasc
+escolaridade
+nome do curso
+situação(formado/cursando)
+linguagems
+frameworks
+bio
+projetos q participa(n/n)
+link facebook
+link github
+link linkedin
+img perfil
+
+info de projetos
+lider do projeto
+situaçao(em desenvolvimento/hiato/concluido/teste)
+usuarios participantes(relação n/n)
+link github
+descricao
+
+projetos/participantes(n/n)
+id user
+id projetos
+
+linguagems
+id
+nome
+descricao
+
+frameworks
+id
+nome descricao
+
+frameworkXlinguagens
